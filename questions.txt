@@ -1,0 +1,41 @@
+Hola, Mi nombre es Aura, soy
+un bot que te ayudara con la aplicación de la prueba DASS-21
+
+Por favor confirma diciendo "Acepto" para contar con el permiso de
+utilizar tus respuestas con fines académicos y científicos.
+
+Bien, empezaremos con tu nombre:
+
+¿Cual es tu edad?
+
+te hare algunas preguntas y responderas solo
+con las respuestas: 
+
+No me ha ocurrido; Me ha ocurrido un poco; Me ha ocurrido
+bastante y Me ha ocurrido mucho
+
+
+¿Me ha costado mucho descargar la tensión?
+¿Me di cuenta que tenía la boca seca?
+¿No podía sentir ningún sentimiento positivo?
+¿Se me hizo difícil respirar?
+¿Se me hizo difícil tomar la iniciativa para hacer cosas?
+¿Reaccioné exageradamente en ciertas situaciones?
+¿Sentí que mis manos temblaban?
+¿He sentido que estaba gastando una gran cantidad de energía?
+¿Estaba preocupado por situaciones en las cuales podía tener pánico o en las que podría hacer el ridículo?
+¿He sentido que no había nada que me ilusionara?
+¿Me he sentido inquieto?
+¿Se me hizo difícil relajarme?
+¿Me sentí triste y deprimido?
+¿No toleré nada que no me permitiera continuar con lo que estaba haciendo?
+¿Sentí que estaba al punto de pánico?
+¿No me pude entusiasmar por nada?
+¿Sentí que valía muy poco como persona?
+¿He tendido a sentirme enfadado con facilidad?
+¿Sentí los latidos de mi corazón a pesar de no haber hecho ningún esfuerzo físico?
+¿Tuve miedo sin razón?
+¿Sentí que la vida no tenía ningún sentido?
+
+Gracias por tus respuestas, nos ayudaran mucho con nuestro proyecto y poder brindar ayuda
+a personas que lo necesiten, que tengas un lindo día.
